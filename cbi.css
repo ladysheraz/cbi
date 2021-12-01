@@ -1,0 +1,40 @@
+body{
+    line-height: 1.6;
+
+}
+h1,h2,p {
+    text-align: center;
+}
+ 
+* {
+    box-sizing: border-box;
+  }
+  /* Style the top navigation bar */
+.bar {
+    text-align: center;
+    overflow: hidden;
+    background-color: orangered;
+  }
+  /* Style the topnav links */
+
+  .bar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* Change color on hover */
+  .bar a:hover {
+    background-color:orangered;
+    color: black;
+  }
+  #div1 img{
+    width: 40%;
+}
+#div4 img{
+    width: 40%;
+    border-image: 30;
+}
+ 
